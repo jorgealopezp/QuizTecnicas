@@ -55,11 +55,5 @@ public class Personaje {
         System.out.println(this.nombre + " ahora tiene " + this.vida + " de vida.");
     }
 
-    public void mostrarInfo() {
-        System.out.println("Nombre: " + nombre);
-        System.out.println("Vida: " + vida);
-        System.out.println("Velocidad: " + velocidad);
-        System.out.println("Salto: " + salto);
-        System.out.println("Ataque: " + ataque);
-    }
+   
 }
